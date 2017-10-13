@@ -1,4 +1,4 @@
-A PROGRAMMING LANGUAGE KNOWLEDGE SYSTEM
+A KNOWLEDGE SYSTEM IN PROGRAMMING LANGUAGES
 
 I've decided to create a knowledge system on every single computer language ever
 conceived. I've implemented the knowledge system on SWI-Prolog, as I found it ideal for this task. This knowledge
