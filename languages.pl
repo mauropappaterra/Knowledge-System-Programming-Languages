@@ -1,12 +1,7 @@
-%
-%  Artificial Intelligence - fall 2016
-%  Assignment 7
-%  Mauro J. Pappaterra - ew3525
-%
 %    A KNOWLEDGE SYSTEM ON EVERY
 %  COMPUTER LANGUAGE EVER CONCEIVED
 %
-%
+% Created by Mauro J. Pappaterra on March 2016
 
 %--FACTS STRUCTURE--
 %language(X).
