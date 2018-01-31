@@ -14,23 +14,23 @@ notably, as I add more languages and more information.
 <h2>Languages: </h2>
 <ul>
   <li>Fortran</li>
-  <li>C</li>
   <li>Lisp</li>
   <li>Scheme</li>
+  <li>C</li>
   <li>Prolog</li>
   <li>SQL</li>
-  <li>LaTex</li>
   <li>C++</li>
+  <li>LaTex</li>
   <li>Perl</li>
   <li>Mathematica</li>
   <li>Haskell</li>
   <li>Python</li>
   <li>HTML</li>
+  <li>Racket</li>
   <li>Java</li>
+  <li>JavaScript</li>
   <li>PHP</li>
   <li>Ruby</li>
-  <li>JavaScript</li>
-  <li>Racket</li>
   <li>C#</li>
 </ul>
 
