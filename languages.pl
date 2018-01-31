@@ -238,7 +238,7 @@ application_field(java_script,scripting).
 application_field(java_script,games).
 application_field(java_script,mobile).
 influenced(java_script,coffeScript).
-influenced(java_script,jscript_Net).
+influenced(java_script,jscript_net).
 
 %PHP
 language(php).
