@@ -2,7 +2,7 @@
 %    A KNOWLEDGE SYSTEM ON EVERY
 %  COMPUTER LANGUAGE EVER CONCEIVED
 %
-% Created by Mauro J. Pappaterra on March 2016
+% Created by Mauro J. Pappaterra on 15 of March 2016.
 
 %--FACTS STRUCTURE--
 %language(X).
