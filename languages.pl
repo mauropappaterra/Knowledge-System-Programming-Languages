@@ -161,7 +161,7 @@ application_field(haskell,research).
 influenced(haskell,python).
 influenced(haskell,java).
 
-%VISUAL BASIC
+%Visual Basic
 language(visual_basic).
 paradigm(visual_basic,object_oriented).
 born(visual_basic,1991).
