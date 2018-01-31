@@ -43,6 +43,16 @@ influenced(lisp,haskell).
 influenced(lisp,ruby).
 influenced(lisp,mathematica).
 
+%----------------- 1960's -----------------%
+
+%BASIC
+language(basic).
+paradigm(basic,object_oriented).
+born(basic,1964).
+application_field(basic,research).
+application_field(basic,software). 
+influenced(basic,visual_basic).
+
 %----------------- 1970's -----------------%
 
 %Scheme
@@ -150,6 +160,13 @@ application_field(haskell,embedded).
 application_field(haskell,research).
 influenced(haskell,python).
 influenced(haskell,java).
+
+%VISUAL BASIC
+language(visual_basic).
+paradigm(visual_basic,object_oriented).
+born(visual_basic,1991).
+application_field(visual_basic,software). 
+influenced(visual_basic,visual_basic_net).
 
 %Python
 language(python).
