@@ -12,17 +12,31 @@ computer screen right now is merely a prototype. I am sure the accuracy in the s
 notably, as I add more languages and more information.
 
 <h2>Languages: </h2>
+
+<h3>1950's</h3>
 <ul>
   <li>Fortran</li>
   <li>Lisp</li>
+</ul>
+
+<h3>1970's</h3>
+<ul>
   <li>Scheme</li>
   <li>C</li>
   <li>Prolog</li>
   <li>SQL</li>
+</ul>
+
+<h3>1980's</h3>
+<ul>
   <li>C++</li>
   <li>LaTex</li>
   <li>Perl</li>
   <li>Mathematica</li>
+</ul>
+
+<h3>1990's</h3>
+<ul>
   <li>Haskell</li>
   <li>Python</li>
   <li>HTML</li>
@@ -31,6 +45,10 @@ notably, as I add more languages and more information.
   <li>JavaScript</li>
   <li>PHP</li>
   <li>Ruby</li>
+</ul>
+
+<h3>2000's</h3>
+<ul>
   <li>C#</li>
 </ul>
 
