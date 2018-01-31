@@ -63,7 +63,7 @@ paradigm(scheme,meta).
 born(scheme,1970).
 application_field(scheme,artificial_intelligence). 
 application_field(scheme,scripting).
-influenced(scheme,javaScript).
+influenced(scheme,java_script).
 influenced(scheme,haskell).
 influenced(scheme,lisp).
 
@@ -181,7 +181,7 @@ application_field(python,software).
 application_field(python,games).
 application_field(python,web).
 application_field(python,mobile).
-influenced(python,javaScript).
+influenced(python,java_script).
 influenced(python,ruby).
 
 %HTML
@@ -222,7 +222,7 @@ application_field(java,software).
 application_field(java,web).
 application_field(java,mobile).
 application_field(java,games).
-influenced(java,javaScript).
+influenced(java,java_script).
 influenced(java,c_sharp).
 
 %JavaScript
@@ -341,7 +341,7 @@ similar_java(X):- language(X), influenced_by(X,java).
 similar_python(X):- language(X), influenced_by(X,perl).
 similar_c(X):- language(X), influenced_by(X,c).
 similar_php(X):- language(X), influenced_by(X,php).
-similar_javaScript(X):- language(X), influenced_by(X,javaScript).
+similar_java_script(X):- language(X), influenced_by(X,java_script).
 similar_lisp(X):- language(X), influenced_by(X,lisp).
 
 % ,etc....
