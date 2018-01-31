@@ -1,4 +1,4 @@
-<h1>A KNOWLEDGE SYSTEM IN PROGRAMMING LANGUAGES</h1>
+<h1>A Knowledge System in Programming Languages</h1>
 
 I've decided to create a knowledge system on every single computer language ever
 conceived. I've implemented the knowledge system on SWI-Prolog, as I found it ideal for this task. This knowledge
@@ -13,6 +13,25 @@ notably, as I add more languages and more information.
 
 <h2>Languages: </h2>
 <ul>
-  <li>Java</li>
+  <li>Fortran</li>
+  <li>C</li>
+  <li>Lisp</li>
+  <li>Scheme</li>
+  <li>Prolog</li>
+  <li>SQL</li>
+  <li>LaTex</li>
+  <li>C++</li>
+  <li>Perl</li>
+  <li>Mathematica</li>
+  <li>Haskell</li>
   <li>Python</li>
+  <li>HTML</li>
+  <li>Java</li>
+  <li>PHP</li>
+  <li>Ruby</li>
+  <li>JavaScript</li>
+  <li>Racket</li>
+  <li>C#</li>
 </ul>
+
+...to be continued
