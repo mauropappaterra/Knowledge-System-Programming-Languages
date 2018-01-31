@@ -19,6 +19,11 @@ notably, as I add more languages and more information.
   <li>Lisp</li>
 </ul>
 
+<h3>1960's</h3>
+<ul>
+  <li>BASIC</li>
+</ul>
+
 <h3>1970's</h3>
 <ul>
   <li>Scheme</li>
@@ -38,6 +43,7 @@ notably, as I add more languages and more information.
 <h3>1990's</h3>
 <ul>
   <li>Haskell</li>
+  <li>Visual Basic</li>
   <li>Python</li>
   <li>HTML</li>
   <li>Racket</li>
