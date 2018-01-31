@@ -226,19 +226,19 @@ influenced(java,javaScript).
 influenced(java,c_sharp).
 
 %JavaScript
-language(javaScript).
-paradigm(javaScript,scripting).
-paradigm(javaScript,object_oriented).
-paradigm(javaScript,imperative).
-paradigm(javaScript,functional).
-paradigm(javaScript,event_driven).
-born(javaScript,1995).
-application_field(javaScript,web). 
-application_field(javaScript,scripting).
-application_field(javaScript,games).
-application_field(javaScript,mobile).
-influenced(javaScript,coffeScript).
-influenced(javaScript,jscript_Net).
+language(java_script).
+paradigm(java_script,scripting).
+paradigm(java_script,object_oriented).
+paradigm(java_script,imperative).
+paradigm(java_script,functional).
+paradigm(java_script,event_driven).
+born(java_script,1995).
+application_field(java_script,web). 
+application_field(java_script,scripting).
+application_field(java_script,games).
+application_field(java_script,mobile).
+influenced(java_script,coffeScript).
+influenced(java_script,jscript_Net).
 
 %PHP
 language(php).
